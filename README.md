@@ -1,4 +1,4 @@
-(https://cdn.discordapp.com/attachments/468837092718280704/598604442392330241/nrpc.png)
+
 
 # NintendoRPC
 A rich-presence for Discord that shows what you're playing on a Nintendo platform!

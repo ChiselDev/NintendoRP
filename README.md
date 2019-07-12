@@ -3,6 +3,7 @@
 
 # NintendoRPC
 A rich-presence for Discord that shows what you're playing on a Nintendo platform!
+Discord: https://discord.gg/bYYUgKu
 
 This will support (when out): Switch and Nintendo 3DS! (and maybe Wii?)
 

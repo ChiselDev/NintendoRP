@@ -1,10 +1,7 @@
-TITLES = https://www.gametdb.com (type: Switch language: JA version: 20190712024240)
 AAAAA = ゼルダの伝説 ブレス オブ ザ ワイルド
 AAABA = 大乱闘スマッシュブラザーズ SPECIAL
 AAACA = スーパーマリオ オデッセイ
-AAB6A = Splatoon 2
 AAB6B = Splatoon 2
-AAB6C = Splatoon 2
 AAB7A = モンスターハンターダブルクロス Nintendo Switch Ver.
 AAB7B = Monster Hunter - Generations - Ultimate
 AAB8A = Super Bomberman R
